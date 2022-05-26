@@ -1,0 +1,26 @@
+{
+  "name": "skelbot",
+  "version": "1.0.0",
+  "description": "Simple Discord bot skeleton, powered by discord.js, easy to install and quick to start",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "nodejs",
+    "discord",
+    "discordjs",
+    "discord-api",
+    "discord-bot"
+  ],
+  "author": "Aethyn",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "discord.js": "^13.7.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.33.0",
+    "@discordjs/builders": "^0.13.0"
+  }
+}
